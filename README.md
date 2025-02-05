@@ -37,7 +37,7 @@ AirPurify is a **React-based** web application designed to **monitor and control
 
 ### **1. Clone the Repository**  
 ```sh
-https://github.com/PrathameshJoshi123/AirPurify.git
+git clone https://github.com/PrathameshJoshi123/AirPurify.git
 cd AirPurify
 ```
 ### **2. Install Dependencies**  
